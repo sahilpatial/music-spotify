@@ -34,7 +34,7 @@ This App is deployed on Firebase.
 Link is: spotify-music-5762d.web.app
 
 I have used the spotify-webApi here for fetching of the data.
-In developer mode of spotidy after creatin app, in the settings of the app i have put http://localhost:3000/redirect in the redirect url.
+In developer mode of spotidy after creating app, in the settings of the app i have put http://localhost:3000/redirect in the redirect url.
 (After deploying my project on firebase I changed the redirect URL to https://spotify-music-5762d.web.app/redirect)
 
 I have used the spotify's API for authentication purpose.
